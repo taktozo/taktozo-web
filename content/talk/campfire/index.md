@@ -1,14 +1,14 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+title: "ISVEE 16"
+subtitle: "Animal Disease Economics and Epidemiology"
+excerpt: "Here is a link to a conference that I attended in Halifax, Canada."
+date: 2022-08-07
+date_end: "2022-08-12"
 show_post_time: false
-event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event: "ISVEE 16"
+event_url: https://venuewest.eventsair.com/isvee2022
+author: "Takesure Tozooneyi"
+location: "Halifax, Canada"
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -18,13 +18,6 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://venuewest.eventsair.com/isvee2022
 ---
 
-{{< here >}}
-
-I'm really excited to give this talk! Stay tuned for video and slides.
