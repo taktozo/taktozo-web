@@ -1,7 +1,7 @@
 ---
 title: "Economic Burden of Animal Diseases"
 subtitle: ""
-excerpt: "Add tabbed sections to your posts."
+excerpt: "Village Economics."
 date: 2022-09-23
 author: "Takesure Tozooneyi"
 draft: false
