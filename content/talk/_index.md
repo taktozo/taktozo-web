@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Talking Development
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  This is a list for my conferences, seminars, workshops, or other events with a time, date, and place.
+author: "Takesure Tozooneyi"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
