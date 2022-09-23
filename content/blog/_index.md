@@ -12,7 +12,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title:  Takesure's fireside thoughts
+  title:  Fireside Chat
   description: |
     Talking Development
   author: "Takesure Tozooneyi"
