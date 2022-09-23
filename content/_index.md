@@ -1,7 +1,7 @@
 ---
-title: "Takesure Tozooneyi"
-subtitle: "PhD Candidate (Agricultural & Applied Economics) "
-description: "Talking Development"
+title: ""
+subtitle: "Personal Website for Takesure Tozooneyi"
+description: "*Talking Development*"
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/unicorn-megaphone.png
