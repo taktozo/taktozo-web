@@ -1,6 +1,6 @@
 ---
 title: "AERC Biannual Research Workshop"
-subtitle: "Animal Disease Economics and Epidemiology"
+subtitle: "Poverty, growth, redistribution, and social inclusion in the time of Covid-19"
 excerpt: "Here is a link to a virtual conference that I participated in Nairobi, Kenya".
 date: 2022-05-30
 date_end: "2022-06-03"
