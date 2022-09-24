@@ -1,7 +1,7 @@
 ---
 title: "AERC Biannual Research Workshop"
 subtitle: "Animal Disease Economics and Epidemiology"
-excerpt: "Here is a link to a virtual conference that I participated in Nairobi, Kenya"
+excerpt: "Here is a link to a virtual conference that I participated in Nairobi, Kenya".
 date: 2022-05-30
 date_end: "2022-06-03"
 show_post_time: false
