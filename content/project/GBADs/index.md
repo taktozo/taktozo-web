@@ -1,5 +1,5 @@
 ---
-title: "Global Burden for Animal Diseases (GBADs)"
+title: "Global Burden of Animal Diseases (GBADs)"
 subtitle: ""
 date: 2022-09-24
 author: "Takesure Tozooneyi"
