@@ -1,7 +1,7 @@
 ---
 title: "A campfire"
 subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
+excerpt: "Here is a talk given by Alison Hill on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
 date: 2021-01-12
 date_end: "2021-01-13"
 show_post_time: false
