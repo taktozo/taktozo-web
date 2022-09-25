@@ -7,4 +7,4 @@ headline:
 ---
 
 <!-- this is a subheadline -->
-
+![whott Logo Script](whott-logo-script.png)
