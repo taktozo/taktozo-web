@@ -1,0 +1,16 @@
+---
+title: "Global Burden for Animal Diseases (GBADs)"
+subtitle: "By gathering available data and developing an innovative methodology, the [GBADs programme](https://animalhealthmetrics.org/) will determine the economic burden of animal diseases. The findings will inform governmental and non-governmental responses to animal health issues."
+date: 2022-09-24
+author: "Takesure Tozooneyi"
+draft: false
+tags:
+- hugo-site
+categories:
+- Theme Features
+- R
+- package
+# layout options: single or single-sidebar
+layout: single
+---
+
