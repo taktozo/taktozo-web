@@ -4,6 +4,7 @@ subtitle: ""
 excerpt: "Village Economics."
 date: 2022-09-23
 author: "Takesure Tozooneyi"
+show_post_thumbnail: true
 draft: false
 # layout options: single, single-sidebar
 layout: single
