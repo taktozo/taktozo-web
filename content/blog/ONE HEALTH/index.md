@@ -1,7 +1,7 @@
 ---
 title: "The new norm of zoonosis"
 subtitle: ""
-excerpt: ""
+excerpt: "Village Economics"
 date: 2022-09-26
 author: "Takesure Tozooneyi"
 show_post_thumbnail: true
