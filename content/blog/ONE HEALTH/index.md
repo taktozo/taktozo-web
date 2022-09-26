@@ -1,5 +1,5 @@
 ---
-title: "The new norm of zoonosis"
+title: "Two birds, one stone"
 subtitle: ""
 excerpt: "Village Economics"
 date: 2022-09-26
