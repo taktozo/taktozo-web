@@ -14,7 +14,7 @@ categories:
 layout: single
 ---
 
-Focusing on Ethiopia, we seek to understand how smallholder market decisions are impacted by both short and long tern climate shocks. In collaboration with (Clifton Makate)[https://www.nmbu.no/emp/clifton.makate]
+Focusing on Ethiopia, we seek to understand how smallholder market decisions are impacted by both short and long tern climate shocks. In collaboration with (Clifton Makate)[https://www.nmbu.no/emp/clifton.makate].
 
 ---
 
