@@ -11,7 +11,7 @@ intro: |
   and [University of Pretoria](https://en.wikipedia.org/wiki/University_of_Pretoria)
   . I am currently a PhD Candidate in the [Department of Agricultural Economics at Kansas State University](https://www.ageconomics.k-state.edu/)
   , USA. I recently passed my preliminary exams and currently working on developing my dissertation proposal! I am part of the Wider Economy Impacts (WEI) theme of the [Global Burden  of Animal Diseases (GBADs)](https://animalhealthmetrics.org/) program. My current research focuses on production, demand and trade effects of animal disease events.
-  My research interests are quite broad and spans across Animal Health Economics, Trade, Production Economics, Demand & Price Analysis, Risk & Insurance, Impact Evaluation, Agricultural & Food Policy and Environmental & Natural Resources Economics.
+  My research interests are quite broad and spans across Animal Health Economics, Trade, Production Economics, Demand & Price Analysis, Risk & Insurance, Impact Evaluation, Agricultural & Food Policy and Environmental & Natural Resources Economics__
   
 show_outro: true
 outro: |
